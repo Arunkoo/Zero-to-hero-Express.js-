@@ -4,7 +4,7 @@
 
 </h3>
 <h2>INSTALLATION GUIDE</h2>
-<h3>pAssuming you’ve already installed Node.js, create a directory to hold your application, and make that your working directory.</h3>
+<h3>Assuming you’ve already installed Node.js, create a directory to hold your application, and make that your working directory.</h3>
 
 <p>$ mkdir myapp</p>
 <p>$ cd myapp</p>
